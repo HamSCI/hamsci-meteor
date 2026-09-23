@@ -18,12 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HamSCI Working Group
+title: HamSCI Meteor Scatter Working Group
 description: >- # this means to ignore newlines until "baseurl:"
-  A HamSCI Working Group.
-baseurl: "/hamsci-wg/" # the subpath of your site, e.g. /blog
+  Amateur radio operators, citizen scientists, and professional researchers using meteor
+  scatter observations to advance meteor science and meteor scatter communications.
+baseurl: "/hamsci-meteor/" # the subpath of your site, e.g. /blog
 domain: hamsci.github.io
 url: "https://hamsci.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Header navigation, in display order. Pages not listed here are still built and reachable by link.
+header_pages:
+  - 1_about.md
+  - 2_mission.md
+  - msqp.md
+  - 3_goals.md
+  - 4_minutes.md
+  - 5_resources.md
+  - 6_results.md
 
 # Build settings
 theme: minima

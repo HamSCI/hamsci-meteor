@@ -1,14 +1,28 @@
+# Citation metadata for the HamSCI Meteor Scatter Working Group repository.
+# The author list is the co-leaders' decision and is still a placeholder. Do not list AI tools
+# as authors (see .claude/rules/ai-governance.md). Delete this file if the repository should not
+# be citable.
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this project, please cite it as below."
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
+- family-names: "YOUR_FAMILY_NAME"
+  given-names: "YOUR_GIVEN_NAME"
   orcid: "https://orcid.org/0000-0000-0000-0000"
+# Kristina Collins authored the HamSCI working group website template this repository is built
+# from. Keep this entry only if that authorship applies to the project's citation.
 - family-names: "Collins"
   given-names: "Kristina"
   orcid: "https://orcid.org/0000-0002-3816-1948"
-title: "hamsci-hardware"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-08-05
-url: "https://github.com/HamSCI/hamsci-hardware"
+title: "HamSCI Meteor Scatter Working Group"
+version: 0.1.0
+doi: "[DOI to be assigned]"   # from Zenodo, after archiving a release; see the README checklist
+date-released: "[date of first release]"
+url: "https://github.com/HamSCI/hamsci-meteor"
+# license: <SPDX identifier, e.g. CC-BY-4.0 or MIT; add once a LICENSE file is chosen>
+keywords:
+  - HamSCI
+  - amateur radio
+  - meteor scatter
+  - meteor science
+  - MSK144
+  - citizen science
