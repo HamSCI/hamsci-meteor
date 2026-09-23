@@ -49,4 +49,4 @@ command produces this format and appends it in the right order.
   resolve. Station coordinates, personal email addresses, the Zoom link, and a student's name in
   the slides were deliberately left off the public site.
 - **Human Review Status**: Pending review by the co-leaders and N. A. Frissell (W2NAF)
-- **Git Hash**: [pending commit]
+- **Git Hash**: c371b3c
